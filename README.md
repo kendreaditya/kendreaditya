@@ -6,7 +6,7 @@ I currently pursuing my bachelor's degree majoring in computer science from Penn
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [@akendre](https://www.instagram.com/akendre/)
+- 📫 How to reach me: [kendreaditya@gmail.com](mailto:kendreaditya@gmail.com)
 - 📝 More about me at [kendreaditya.github.io](https://kendreaditya.github.io/)
 
 **Languages and Tools:**  
