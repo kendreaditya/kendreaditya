@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Hi, I'm Aditya Kendre, a passionate self-taught Machine Learning Researcher and Software Engineer from Pennsylvania. 
-I currently pursuing my bachelor's degree majoring in computer science from Penn State University. I am a tech enthusiast & an open-source advocate.
+I currently pursuing my bachelor's degree majoring in computer science at Penn State University. I am a tech enthusiast & an open-source advocate.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
