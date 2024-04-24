@@ -9,4 +9,4 @@ Talk to me about [Philosophy](https://en.wikipedia.org/wiki/Philosophy) - specif
  - An llm first-engine for learning and research with access to websites, books, videos, and much more (WIP)
  - An app to detect heart sound abnormality with a novel (cnn+transformer) model [[heartface](https://github.com/kendreaditya/heartface)]
 
-Check out my [website](https://kendreaditya.github.io/)
+Check out my [website](https://kendre.me)
