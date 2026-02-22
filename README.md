@@ -10,6 +10,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 > Scaling ideas while learning and building cool things · [kendre.me](https://kendre.me)
+>
+> Interested in using technology and AI to eradicate malignant suffering while preserving meaningful struggle — shifting the quality-of-life distribution so no one is left behind. Building at the intersection of engineering, philosophy, and effective altruism.
 
 ## Projects
 
