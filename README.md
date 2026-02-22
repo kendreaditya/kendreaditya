@@ -11,7 +11,7 @@
 
 > Scaling ideas while learning and building cool things · [kendre.me](https://kendre.me)
 >
-> Interested in using technology and AI to eradicate malignant suffering while preserving meaningful struggle — shifting the quality-of-life distribution so no one is left behind. Building at the intersection of engineering, philosophy, and effective altruism.
+> Interested in [epistemology](https://en.wikipedia.org/wiki/Epistemology), [effective altruism](https://en.wikipedia.org/wiki/Effective_altruism), [eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia), [philosophy of mind](https://en.wikipedia.org/wiki/Philosophy_of_mind), [longevity](https://en.wikipedia.org/wiki/Life_extension), and using technology to improve the [human condition](https://en.wikipedia.org/wiki/Human_condition).
 
 ## Projects
 
