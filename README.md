@@ -15,6 +15,7 @@
 
 ## Projects
 
+- 📁 **[logseq-file-explorer](https://github.com/kendreaditya/logseq-file-explorer)** — Obsidian-style file explorer plugin for Logseq's left sidebar
 - 🌐 **[web-context-builder](https://github.com/kendreaditya/web-context-builder)** — Web scraper CLI converting sites to LLM-optimized markdown
 - 🔍 **[benchmark-context](https://github.com/kendreaditya/benchmark-context)** — Search interface for questions from leading LLM benchmarks
 - ⏳ **[timescales](https://github.com/kendreaditya/timescales)** — Interactive comparison of geological and Puranic time scales
