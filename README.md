@@ -10,47 +10,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 > Scaling ideas while learning and building cool things · [kendre.me](https://kendre.me)
->
-> Interested in [epistemology](https://en.wikipedia.org/wiki/Epistemology), [effective altruism](https://en.wikipedia.org/wiki/Effective_altruism), [eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia), [philosophy of mind](https://en.wikipedia.org/wiki/Philosophy_of_mind), [longevity](https://en.wikipedia.org/wiki/Life_extension), and using technology to improve the [human condition](https://en.wikipedia.org/wiki/Human_condition).
 
-## Projects
-
-- 📁 **[logseq-file-explorer](https://github.com/kendreaditya/logseq-file-explorer)** — Obsidian-style file explorer plugin for Logseq's left sidebar
-- 🌐 **[web-context-builder](https://github.com/kendreaditya/web-context-builder)** — Web scraper CLI converting sites to LLM-optimized markdown
-- 🔍 **[benchmark-context](https://github.com/kendreaditya/benchmark-context)** — Search interface for questions from leading LLM benchmarks
-- ⏳ **[timescales](https://github.com/kendreaditya/timescales)** — Interactive comparison of geological and Puranic time scales
-- 🏃 **[LESS](https://github.com/kendreaditya/LESS)** — Implementation of the Landing Error Scoring System
-- 🌍 **[dns-updater](https://github.com/kendreaditya/dns-updater)** — Lightweight dynamic DNS updater for Vercel records
-- 🎬 **[youtube-clips](https://github.com/kendreaditya/youtube-clips)** — Export YouTube clips with transcripts to markdown
-- 🕸️ **[wiki-graph](https://github.com/kendreaditya/wiki-graph)** — Graph-based Wikipedia topic research visualization
-
-## Dev Tools
-
-- ⚙️ **[.config](https://github.com/kendreaditya/.config)** — Dotfiles, setup scripts, and CLI tools:
-  - `yt-research` — YouTube channel transcripts to markdown
-  - `tw-research` — Twitter/X user tweets to markdown
-  - `wcb` — Async web scraper for LLM context
-  - `shortn` — Compress text to fit token limits via TextRank
-
-## Research
-
-- 🫀 **[heart-auscultation](https://github.com/kendreaditya/heart-auscultation)** — Arrhythmia detection with phonocardiograms
-- 🫀 **[heart-sound-arrhythmia-classification](https://github.com/kendreaditya/heart-sound-arrhythmia-classification)** — Adversarial ML for smartphone-based arrhythmia classification
-- 💓 **[heartface](https://github.com/kendreaditya/heartface)** — Mobile app that records and analyzes heart sounds
-- 🧠 **[EEG-connectome-analysis](https://github.com/kendreaditya/EEG-connectome-analysis)** — EEG connectome analysis
-- 🧠 **[psychiatric-classification](https://github.com/kendreaditya/psychiatric-classification)** — Detecting psychiatric illness in EEGs
-- 🧬 **[human-milk-peptides](https://github.com/kendreaditya/human-milk-peptides)** — Human milk peptide analysis
-- 🔬 **[lambda-peptide-tool](https://github.com/kendreaditya/lambda-peptide-tool)** — Peptide sequence properties tool
-
-## Systems
-
-- 🧱 **[malloc](https://github.com/kendreaditya/malloc)** — Optimized malloc and free implementation
-- 🔧 **[my-compiler](https://github.com/kendreaditya/my-compiler)** — Compiler for a simple programming language
-- ⏱️ **[scheduling-policies](https://github.com/kendreaditya/scheduling-policies)** — CPU scheduling policy implementations
-
-## Publications
-
-📎 [Google Scholar](https://scholar.google.com/citations?user=sx_8qkEAAAAJ)
+Interested in [epistemology](https://en.wikipedia.org/wiki/Epistemology), [effective altruism](https://en.wikipedia.org/wiki/Effective_altruism), [eudaimonia](https://en.wikipedia.org/wiki/Eudaimonia), [philosophy of mind](https://en.wikipedia.org/wiki/Philosophy_of_mind), [longevity](https://en.wikipedia.org/wiki/Life_extension), and using technology to improve the [human condition](https://en.wikipedia.org/wiki/Human_condition).
 
 ## Connect
 
